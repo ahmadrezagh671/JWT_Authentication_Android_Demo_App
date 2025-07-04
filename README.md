@@ -1,4 +1,4 @@
-# JWT Authentication Android Demo App
+# JWT Authentication Android Ktor App
 
 A demo project showcasing JWT-based authentication with a Kotlin backend server and a Java Android app, connected to a MongoDB database for secure user data storage with salted password hashing.
 
