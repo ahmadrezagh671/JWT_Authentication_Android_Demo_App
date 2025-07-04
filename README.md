@@ -92,9 +92,9 @@ JWT_Authentication_Android_Demo_App/
 - Ensure MongoDB is secured with proper access controls.
 
 ## Screenshots
-| ![Screenshot 1](Screenshots/01.png) | ![Screenshot 2](Screenshots/02.png) | ![Screenshot 3](Screenshots/03.png) |
+| ![Screenshot 1](Screenshots/01.jpg) | ![Screenshot 2](Screenshots/02.jpg) | ![Screenshot 3](Screenshots/03.jpg) |
 |-----------------------------------------|-----------------------------------------|-----------------------------------------|
-| ![Screenshot 4](Screenshots/04.png) | ![Screenshot 5](Screenshots/05.png) | ![Screenshot 6](Screenshots/06.png) |
+| ![Screenshot 4](Screenshots/04.jpg) | ![Screenshot 5](Screenshots/05.jpg) | ![Screenshot 6](Screenshots/06.jpg) |
 
 ## Contributing
 Contributions are welcome! Please follow these steps:
