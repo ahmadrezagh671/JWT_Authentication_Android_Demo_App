@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="colorPrimary">#042C54</color>
+    <color name="textBlue">#045BB3</color>
+    <color name="textBlack">#2C2C2C</color>
+    <color name="textGray">#595959</color>
+
+    <color name="dividerColor">#C7C7C7</color>
+
+    <color name="backgroundColor">#F6F7F8</color>
+    <color name="darkBackgroundColor">#F4F4F4</color>
+
+    <color name="backgroundErrorColor">#BC0808</color>
+    <color name="foregroundErrorColor">#E9E9E9</color>
+
+    <color name="backgroundButtonColor1">#DBDCDE</color>
+    <color name="foregroundButtonColor1">#2C2C2C</color>
+
+</resources>

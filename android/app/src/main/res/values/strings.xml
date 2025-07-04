@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Auth Demo App</string>
+    <string name="aboutUs">
+        A simple Android app made for learning and testing user authentication.\nBuilt using Java (Android) and Kotlin (Ktor backend).\n\nIncludes basic features like:\nUser registration\nLogin with JWT token\nInput validation\nError handling\n\n📱 For educational purposes only.\n🔐 Backend powered by Ktor.
+    </string>
+    <string name="githubLink">https://github.com/ahmadrezagh671/JWT_Authentication_Android_Demo_App</string>
+    <string name="url">http://192.168.1.2:8080</string>
+    <string name="supportEmail">ahmadrezagh671@gmail.com</string>
+
+    <string name="networkError">"Failed to connect to the network."</string>
+    <string name="tokenFailedError">We’re having trouble with your account token. Please try again or contact support.</string>
+</resources>
